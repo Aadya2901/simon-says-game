@@ -1,7 +1,7 @@
 # Simon Says Game 🎮
 
 ## Description
-A fun and interactive memory-based game built using HTML, CSS, and JavaScript. The game challenges players to follow and repeat the flashing color sequence to advance to the next level. With each level, the sequence becomes more complex, testing your memory and focus.
+A minimalistic and engaging memory-based game built with HTML, CSS, and JavaScript. The goal is to follow and repeat the flashing color sequence to advance to the next level. The game's design features a pastel color theme for a soothing visual experience.
 
 ## Features
 - Dynamic color flashing effect
@@ -9,7 +9,6 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript. T
 - Real-time sequence validation
 - Score tracking
 - Game over sound effect
-- Responsive design for both desktop and mobile
 
 ## Technologies Used
 - HTML
@@ -20,8 +19,8 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript. T
 1. Press any key to start the game.
 2. Watch the sequence of flashing colors.
 3. Click the buttons in the same sequence.
-4. Successfully repeat the sequence to advance to the next level.
-5. A wrong click ends the game, and your score is displayed.
+4. If you repeat the sequence correctly, you proceed to the next level.
+5. If you click the wrong button, the game ends, and your score is displayed.
 
 ## Setup Instructions
 1. Clone the repository:
@@ -35,7 +34,7 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript. T
 3. Open `index.html` in your browser.
 
 ## Live Demo
-[Play the Game 🎮](https://aadya2901.github.io/simon-says-game)
+[Play the Game](https://aadya2901.github.io/simon-says-game)
 
 ## Project Structure
 ```
@@ -48,7 +47,8 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript. T
 ```
 
 ## Contributing
-Contributions are welcome! If you find any issues or want to enhance the game, feel free to submit a pull request.
+Contributions are welcome! Feel free to submit a pull request if you want to enhance the game or fix any issues.
 
 ## License
 This project is licensed under the MIT License.
+
