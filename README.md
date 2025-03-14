@@ -9,6 +9,7 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript. T
 - Real-time sequence validation
 - Score tracking
 - Game over sound effect
+- Responsive design for both desktop and mobile
 
 ## Technologies Used
 - HTML
@@ -19,8 +20,8 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript. T
 1. Press any key to start the game.
 2. Watch the sequence of flashing colors.
 3. Click the buttons in the same sequence.
-4. If you repeat the sequence correctly, you proceed to the next level.
-5. If you click the wrong button, the game ends, and your score is displayed.
+4. Successfully repeat the sequence to advance to the next level.
+5. A wrong click ends the game, and your score is displayed.
 
 ## Setup Instructions
 1. Clone the repository:
@@ -31,18 +32,18 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript. T
    ```bash
    cd simon-says-game
    ```
-3. Open `simon_says.html` in your browser.
+3. Open `index.html` in your browser.
 
 ## Live Demo
-[Play the Game](https://aadya2901.github.io/simon-says-game)
+[Play the Game 🎮](https://aadya2901.github.io/simon-says-game)
 
 ## Project Structure
 ```
 .
 ├── beep.mp3
-├── simon_says.css
-├── simon_says.html
-├── simon_says.js
+├── style.css
+├── index.html
+├── app.js
 └── README.md
 ```
 
@@ -51,4 +52,3 @@ Contributions are welcome! If you find any issues or want to enhance the game, f
 
 ## License
 This project is licensed under the MIT License.
-
